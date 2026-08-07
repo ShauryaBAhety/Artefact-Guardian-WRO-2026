@@ -1,0 +1,11 @@
+argparse
+math
+queue
+threading
+time
+from collections import deque
+
+cv2
+mediapipe as mp
+numpy as np
+serial
